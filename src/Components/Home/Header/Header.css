@@ -1,0 +1,19 @@
+.header-container {
+    height: 680px;
+    background-color: #FBD062;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+}
+
+/* .header-container::after {
+    content: '';
+    background: white;
+    padding-top: 100%;
+    width: 200%;
+    border-radius: 50%;
+    position: absolute;
+    top: 95%;
+    left: 20%;
+    transform: translateX(-25%);
+} */
